@@ -69,6 +69,7 @@ namespace AS_SSD_Coursework.Levels
             //create to first bit of snake food
             GenerateFood();
         }
+
         private void GameInit()
         {
             while (true)
